@@ -1,6 +1,6 @@
 # charts2csv
 ```
-Tired of wondering how to place your proprietary data, such as a list of PDFs, on online websites to convert the charts inside them into CSV files and gain insights using state-of-the-art models like LLAVA or GPT-4?
+Tired of figuring out how to process your proprietary data, like a list of PDFs, on your local VM or computer instead of relying on online websites to convert charts into CSV files and extract insights using state-of-the-art models like LLAVA or GPT-4?
 
 Then, my friend, you have clicked on the right link!
 
