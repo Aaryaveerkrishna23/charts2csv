@@ -1,0 +1,79 @@
+Image Name	Extracted Data
+
+---- EXTRACTED TABLE for deplot_page2_img1.jpeg ----
+TITLE | DePlot vs. baselines on ChartQA
+models | augmented-set | human-set
+VisionTapas | 66 | 22
+Pix2Struct | 83 | 31
+MatCha | 88 | 37
+DePlot | 91 | 66
+
+---- ORIGINAL GRAPH for deplot_page2_img1.jpeg ----
+
+---- EXTRACTED TABLE for deplot_page8_img1.png ----
+Country | Share of marine territorial waters that are protected, 2016
+Greenland | 4.52
+Mauritania | 4.15
+Indonesia | 2.88
+Ireland | 2.33
+
+---- ORIGINAL GRAPH for deplot_page8_img1.png ----
+
+---- EXTRACTED TABLE for deplot_page8_img2.png ----
+Entity | Very concerned | Somewhat concerned | Not concerned
+Losing the ability to communicate face-to-face | 48 | 26 | 22
+Harassment or bullying | 59 | 21 | 16
+Mobile phone addiction | 62 | 17 | 18
+Exposure to false or incorrect information | 64 | 25 | 14
+Identity theft | 66 | 17 | 16
+Children being exposed to harmful content | 79 | 14 | 6
+
+---- ORIGINAL GRAPH for deplot_page8_img2.png ----
+
+---- EXTRACTED TABLE for deplot_page13_img1.png ----
+Characteristic | Female | Male
+2019 | 5.9 | 5.8
+2018 | 5.83 | 5.73
+2017 | 5.77 | 5.67
+2016 | 5.7 | 5.6
+2015 | 5.64 | 5.54
+2014 | 5.58 | 5.49
+2013 | 5.51 | 5.44
+2012 | 5.45 | 5.39
+2011 | 5.39 | 5.35
+2010 | 5.33 | 5.32
+2009 | 5.27 | 5.25
+
+---- ORIGINAL GRAPH for deplot_page13_img1.png ----
+
+---- EXTRACTED TABLE for deplot_page16_img1.png ----
+Characteristic | Share of respondents
+2013 | 48%
+2011 | 43%
+2009 | 33%
+2007 | 26%
+2005 | 18%
+
+---- ORIGINAL GRAPH for deplot_page16_img1.png ----
+
+---- EXTRACTED TABLE for deplot_page16_img2.png ----
+Year | Hispanic eligible voters | Hispanic voters
+1986 | 7.5 | 2.9
+1990 | 8.1 | 2.9
+1994 | 10.3 | 3.5
+1998 | 12.4 | 4.1
+2002 | 14.5 | 4.5
+2006 | 17.3 | 5.6
+2010 | 21.3 | 6.6
+2014 | 25.1 | 6.8
+2018 | 29.1 | 0.0
+
+---- ORIGINAL GRAPH for deplot_page16_img2.png ----
+
+---- EXTRACTED TABLE for deplot_page17_img1.png ----
+Entity | 2004 | 2006 | 2008 | 2010 | 2012 | 2014 | 2016 | 2017
+Belize | 65.0 | 67.0 | 61.0 | 61.0 | 57.0 | 55.0 | 62.0 | 62.0
+Papua New Guinea | 44.0 | 44.0 | 44.0 | 44.0 | 48.0 | 47.0 | 49.0 | 50.0 | 61.0
+Belize | 62.0 | 61.0 | 61.0 | 61.0 | 58.0 | 55.0 | 54.0 | 62.0 | 62.0
+
+---- ORIGINAL GRAPH for deplot_page17_img1.png ----

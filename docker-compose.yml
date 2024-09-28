@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  pdf_extractor:
+    build: .
+    volumes:
+      - ./pdf_files:/app/pdf_files  # Mount the local pdf_files directory to the container
+      - .:/app  # Mount the entire directory to allow log files to be saved
+    command: ["python", "pdf_image_extractor.py", "/app/pdf_files"]
