@@ -8,7 +8,7 @@ Check out the rest of the GitHub repository to find out how!
 ```
 ## Demo
 
-![Demo Image](https://raw.githubusercontent.com/Aaryaveerkrishna23/charts2csv/main/demo.png)
+![Demo Image](https://raw.githubusercontent.com/Aaryaveerkrishna23/charts2csv/main/demo2.png)
 
 
 ### README.md
